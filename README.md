@@ -7,4 +7,4 @@ CREATED WITH: thunkable
 
 
 # If you don't know how to download the app
-Go to [Wiki](https://github.com/Kevinpratmama/howtotutorialsmobileapp/wiki/How-to-download-it)
+Go to [Wiki](https://github.com/Kevinpratmama/howtotutorialsmobileapp/wiki/How-to-download-it) and read the instructions!
