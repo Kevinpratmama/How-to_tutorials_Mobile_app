@@ -1,9 +1,8 @@
-# howtotutorialsmobileapp
-Thank you for installing How-to tutorials on your phone!
+# What is How-to tutorials?
+How-to tutorials is a free, open-sorce mobile app that you can watch free tutorials in one place.
 
-NOTE: This app is not from the play store, it's a .apk file.
+MOBILE APP CREATED WITH: thunkable - www.thunkable.com
 
-CREATED WITH: thunkable
 
 
 # If you don't know how to download the app
