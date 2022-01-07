@@ -12,9 +12,12 @@ Or watch this [Video!](https://www.youtube.com/watch?v=4O6FwC11RK0&ab_channel=Ho
 
 # License
 HOW-TO TUTORIALS SOFTWARE LICENSE
+
 Copyright © 2022 How-to tutorials corporation, All rights reserved
+
 License under CC BY-ND
 
 Do not copy our hard work. This is our work. Do not copy. Only watch tutorials that you need. If you do not found the tutorials you need, please fill out this form.
+
 
 https://forms.gle/bL4krkoVEx91NwvaA
