@@ -21,3 +21,7 @@ Do not copy our hard work. This is our work. Do not copy. Only watch tutorials t
 
 
 https://forms.gle/bL4krkoVEx91NwvaA
+
+# Trusting Thunkable Inc in iOS/iPadOS
+
+To do that, read the instructions [here.](https://github.com/Kevinpratmama/How-to_tutorials_Mobile_app/wiki/Fix:-Error-message-in-iOS-iPadOS-when-opening-the-app)
