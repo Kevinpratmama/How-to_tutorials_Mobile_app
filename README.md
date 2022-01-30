@@ -25,3 +25,11 @@ https://forms.gle/bL4krkoVEx91NwvaA
 # Trusting Thunkable Inc in iOS/iPadOS
 
 To do that, read the instructions [here.](https://github.com/Kevinpratmama/How-to_tutorials_Mobile_app/wiki/Fix:-Error-message-in-iOS-iPadOS-when-opening-the-app)
+
+# System requirements
+
+Android: Android 10 or higher
+
+Samsung: Samsung Note8 or higher
+
+iOS/iPadOS: iOS 10 or higher
